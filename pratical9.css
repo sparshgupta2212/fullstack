@@ -48,7 +48,6 @@ body {
 .show-btn {
   float: right;
 }
-
 #check {
   position: absolute;
   visibility: hidden;
